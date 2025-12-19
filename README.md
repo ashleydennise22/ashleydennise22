@@ -17,7 +17,7 @@ I’m a BS Information Technology student passionate about building projects tha
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f2a1de5aa1d244eeba7287322dcd0fa0)
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=723FE60DD29033EA256D671F69BDE40D538CAB8BA708722B77C44378A59DD231)
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=977F146BDE3BE7A540F93D0CD2D0F7766AAB22255577DBD706F77E435A0A2E02)
-- [OCI AI Foundations Associate (2025)]()
+- [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=73387E1684458A7D624B254BFF429DD28AE8B2F894344FA1F85FE3FCE94A6F78)
 
 ---
 

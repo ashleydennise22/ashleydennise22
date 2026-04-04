@@ -28,7 +28,7 @@ I’m a BS Information Technology student passionate about building projects tha
 
 ---
 
-## 🌐 NEU Library Visitor Log
+## 🌐 Personal Project
 
 Live Website: [https://neu-library.infinityfree.me/](https://neu-library.infinityfree.me/)
 

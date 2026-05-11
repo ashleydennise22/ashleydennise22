@@ -2,7 +2,7 @@
 
 ###
 
-I’m a BS Information Technology student passionate about building projects that help me grow as a developer. I enjoy exploring web development, databases, and system design, and I’m always excited to learn new technologies and improve my skills.
+I am Ashley Dennise Alberto a BS Information Technology student passionate about building projects that help me grow as a developer. I enjoy exploring web development, databases, and system design, and I’m always excited to learn new technologies and improve my skills.
 
 ---
 
@@ -22,9 +22,9 @@ I’m a BS Information Technology student passionate about building projects tha
 ---
 
 ## 🛠️ Skill Sets  
-- **Programming:** Java, PHP
-- **Databases:** SQL  
-- **Tools:** Lucidchart, VS Code, IntelliJ IDEA, HTML/CSS  
+- **Programming:** Java, PHP, Javascript, Python, HTML, SQL
+- **Databases:** IBM DB2 Cloud  
+- **Tools:** Lucidchart, VS Code, IntelliJ IDEA, Jaspersoft Studio  
 
 ---
 

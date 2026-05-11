@@ -22,7 +22,7 @@ I am Ashley Dennise Alberto, a BS Information Technology student passionate abou
 ---
 
 ## 🛠️ Skill Sets  
-- **Programming:** Java, PHP, Javascript, Python, HTML, SQL, Notepad ++
+- **Programming:** Java, PHP, Javascript, Python, HTML, SQL, 
 - **Databases:** IBM DB2 Cloud  
 - **Tools:** Lucidchart, VS Code, IntelliJ IDEA, Jaspersoft Studio, Pycharm, Laragon, Oracle Virtual Box
 
